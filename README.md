@@ -1,2 +1,3 @@
-# asymm_vs_symm_satellite_config
-Asymmetric vs Symmetric Satellite Configuration: Effects on Control and Reaction Wheel Distribution
+# Asymmetric vs Symmetric Satellite Configuration: Effects on Control and Reaction Wheel Distribution
+
+The configuration of a satellite in terms of its symmetry is a major factor in determining its utility for a desired mission. In addition, the method in which the satellite distributes its angular momentum while performing a maneuver is a crucial component in its success as a mechanism. This repository includes code and results that investigate the intentional use of satellite asymmetry in many land documentation and disaster management satellites, building off the NASA Landsat-8 configuration in particular. The findings of weight distribution and reaction wheel configuration that affect symmetry and effective angular momentum distribution for control, respectively, are shared. A conclusion is arrived at based on the results of the numerical simulation shown that follows the CAD modeling of the satellite configuration.
